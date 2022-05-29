@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell',
+    'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.6)),
+    url(./components/pexels-ivan-samkov-4238511.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 100vh;
+  width: 100%;
+  color: #eee;
+}
+.header {
+  padding-top: 30px;
+}
+.header h1 {
+  font-size: 3rem;
+}
+.header h2 {
+  font-size: 1.3rem;
+}
+label {
+  font-size: 1.3rem;
+}
+.input-task {
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: 2px solid rgb(57, 212, 57);
+}
+.pending-task h3,
+.completed-task h3 {
+  font-size: 1.5rem;
+}
+.task-body {
+  display: flex;
+  justify-content: space-evenly;
+}
+.pending-task {
+  width: 50%;
+}
+.pending-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  background-color: #eee;
+  align-items: center;
+  gap: 20vw;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  color: #282c34;
+}
+.img-button {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+.completed-task {
+  width: 50%;
+}

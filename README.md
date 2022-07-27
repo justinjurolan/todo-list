@@ -11,6 +11,10 @@ My first project after gaining knowledge in React JS. It is a great project to p
 ```
 git clone https://github.com/justinjurolan/todo-list.git
 ```
+```
+npm install
+```
+To install the packages exist in the package.json.
 
 ## Contributing
 

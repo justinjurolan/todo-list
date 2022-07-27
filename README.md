@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# To-Do App - React JS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Overview
+
+My first project after gaining knowledge in React JS. It is a great project to practice React Hooks and to understand the advantages of React JS in creating a web application.
+
+## Installation
+
+```
+git clone https://github.com/justinjurolan/todo-list.git
+```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Available Scripts
 
@@ -67,4 +81,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify).

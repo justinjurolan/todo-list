@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 My first project after gaining knowledge in React JS. It is a great project to practice React Hooks and to understand the advantages of React JS in creating a web application.
 
+## Live Demo
+See the live demo of the project [here](https://justinjurolan.github.io/todo-list/).
+
 ## Installation
 
 ```

@@ -14,7 +14,7 @@ git clone https://github.com/justinjurolan/todo-list.git
 ```
 npm install
 ```
-To install the packages exist in the package.json.
+To install the packages used during the development of the application.
 
 ## Contributing
 
